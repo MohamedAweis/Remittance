@@ -1,0 +1,12 @@
+2021-11-22T06:10:13.676Z [Money Remittance] [31merror[39m:ORA-00904: "U"."LASTNAME": invalid identifier
+2021-11-22T07:00:50.427Z [Money Remittance] [31merror[39m:ORA-01036: illegal variable name/number
+2021-11-22T07:10:12.076Z [Money Remittance] [31merror[39m:ORA-01036: illegal variable name/number
+2021-11-22T07:11:45.935Z [Money Remittance] [31merror[39m:ORA-01036: illegal variable name/number
+2021-11-22T07:23:23.411Z [Money Remittance] [31merror[39m:ORA-01400: cannot insert NULL into ("HR"."USERS"."FULLNAME")
+2021-11-22T07:35:45.365Z [Money Remittance] [31merror[39m:ORA-00001: unique constraint (HR.PK_USERS) violated
+2021-11-22T07:40:51.063Z [Money Remittance] [31merror[39m:ORA-00904: "LASTNAME": invalid identifier
+2021-11-22T08:08:00.966Z [Money Remittance] [31merror[39m:User already exist
+2021-11-22T08:10:14.409Z [Money Remittance] [31merror[39m:ORA-01722: invalid number
+2021-11-22T08:10:47.804Z [Money Remittance] [31merror[39m:User already exist
+2021-11-22T08:14:31.504Z [Money Remittance] [31merror[39m:User already exist
+2021-11-22T08:39:43.916Z [Money Remittance] [31merror[39m:ORA-00904: "EMAIL": invalid identifier

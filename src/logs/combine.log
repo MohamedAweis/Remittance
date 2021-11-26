@@ -1,0 +1,253 @@
+2021-11-21T11:17:49.512Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-21T11:33:07.584Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-21T11:48:33.866Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-21T11:57:27.275Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-21T12:09:44.303Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-21T12:15:35.879Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-21T12:22:17.544Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-21T12:23:00.391Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-21T12:29:17.445Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-21T12:46:53.183Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-21T13:52:38.017Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T05:59:17.832Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T05:59:59.951Z [Money Remittance] [32minfo[39m:getCountries controll is working
+2021-11-22T06:00:14.405Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:00:47.158Z [Money Remittance] [32minfo[39m:getCountries controll is working
+2021-11-22T06:00:47.908Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:01:42.423Z [Money Remittance] [32minfo[39m:getCurrency controller is working
+2021-11-22T06:01:42.862Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:01:44.038Z [Money Remittance] [32minfo[39m:The user exists
+2021-11-22T06:01:44.653Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:02:08.426Z [Money Remittance] [32minfo[39m:getStates controll is working
+2021-11-22T06:02:08.934Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:02:33.540Z [Money Remittance] [32minfo[39m:getCities controll is working
+2021-11-22T06:02:34.403Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:02:42.926Z [Money Remittance] [32minfo[39m:getCities controll is working
+2021-11-22T06:02:43.352Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:09:59.568Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T06:10:12.457Z [Money Remittance] [32minfo[39m:info login control is working
+2021-11-22T06:10:13.203Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:10:13.676Z [Money Remittance] [31merror[39m:ORA-00904: "U"."LASTNAME": invalid identifier
+2021-11-22T06:10:13.706Z [Money Remittance] [32minfo[39m:the authentication is working
+2021-11-22T06:10:13.864Z [Money Remittance] [32minfo[39m:Email or Password does not exist
+2021-11-22T06:29:16.401Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T06:29:32.931Z [Money Remittance] [32minfo[39m:info login control is working
+2021-11-22T06:29:33.659Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:29:34.254Z [Money Remittance] [32minfo[39m:the authentication is working
+2021-11-22T06:29:39.790Z [Money Remittance] [32minfo[39m:info login control is working
+2021-11-22T06:29:40.198Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:29:40.372Z [Money Remittance] [32minfo[39m:the authentication is working
+2021-11-22T06:41:12.121Z [Money Remittance] [32minfo[39m:info login control is working
+2021-11-22T06:41:13.012Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:41:13.910Z [Money Remittance] [32minfo[39m:the authentication is working
+2021-11-22T06:41:14.137Z [Money Remittance] [32minfo[39m:Email or Password does not exist
+2021-11-22T06:41:51.180Z [Money Remittance] [32minfo[39m:info login control is working
+2021-11-22T06:41:51.816Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:41:52.099Z [Money Remittance] [32minfo[39m:the authentication is working
+2021-11-22T06:43:17.176Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T06:43:22.978Z [Money Remittance] [32minfo[39m:info login control is working
+2021-11-22T06:43:27.959Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:43:28.043Z [Money Remittance] [32minfo[39m:the authentication is working
+2021-11-22T06:43:50.520Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:44:21.500Z [Money Remittance] [32minfo[39m:info login control is working
+2021-11-22T06:44:22.058Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:44:22.712Z [Money Remittance] [32minfo[39m:the authentication is working
+2021-11-22T06:44:40.489Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:44:41.221Z [Money Remittance] [32minfo[39m:All users controller is working
+2021-11-22T06:59:06.942Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T06:59:18.851Z [Money Remittance] [32minfo[39m:info login control is working
+2021-11-22T06:59:21.692Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:59:22.324Z [Money Remittance] [32minfo[39m:the authentication is working
+2021-11-22T06:59:35.701Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T06:59:36.298Z [Money Remittance] [32minfo[39m:All users controller is working
+2021-11-22T06:59:36.821Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:00:04.084Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:00:04.810Z [Money Remittance] [32minfo[39m:getUserById controller is working
+2021-11-22T07:00:06.236Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:00:06.806Z [Money Remittance] [32minfo[39m:The user exists
+2021-11-22T07:00:07.328Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:00:48.294Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:00:48.640Z [Money Remittance] [32minfo[39m:calling create user
+2021-11-22T07:00:49.098Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:00:49.443Z [Money Remittance] [32minfo[39m:create user
+2021-11-22T07:00:49.893Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:00:50.427Z [Money Remittance] [31merror[39m:ORA-01036: illegal variable name/number
+2021-11-22T07:09:14.314Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T07:09:31.983Z [Money Remittance] [32minfo[39m:info login control is working
+2021-11-22T07:09:33.404Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:09:33.671Z [Money Remittance] [32minfo[39m:the authentication is working
+2021-11-22T07:09:42.220Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:09:42.655Z [Money Remittance] [32minfo[39m:All users controller is working
+2021-11-22T07:09:43.346Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:09:51.391Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:09:52.206Z [Money Remittance] [32minfo[39m:getUserById controller is working
+2021-11-22T07:09:52.566Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:09:53.056Z [Money Remittance] [32minfo[39m:The user exists
+2021-11-22T07:09:53.776Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:10:09.425Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:10:10.012Z [Money Remittance] [32minfo[39m:calling create user
+2021-11-22T07:10:10.765Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:10:11.007Z [Money Remittance] [32minfo[39m:create user
+2021-11-22T07:10:11.716Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:10:12.076Z [Money Remittance] [31merror[39m:ORA-01036: illegal variable name/number
+2021-11-22T07:11:31.952Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T07:11:42.440Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:11:42.814Z [Money Remittance] [32minfo[39m:calling create user
+2021-11-22T07:11:43.563Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:11:43.847Z [Money Remittance] [32minfo[39m:create user
+2021-11-22T07:11:45.494Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:11:45.935Z [Money Remittance] [31merror[39m:ORA-01036: illegal variable name/number
+2021-11-22T07:22:50.933Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T07:23:06.494Z [Money Remittance] [32minfo[39m:info login control is working
+2021-11-22T07:23:07.689Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:23:08.076Z [Money Remittance] [32minfo[39m:the authentication is working
+2021-11-22T07:23:19.835Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:23:20.207Z [Money Remittance] [32minfo[39m:calling create user
+2021-11-22T07:23:20.853Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:23:21.223Z [Money Remittance] [32minfo[39m:create user
+2021-11-22T07:23:22.243Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:23:23.411Z [Money Remittance] [31merror[39m:ORA-01400: cannot insert NULL into ("HR"."USERS"."FULLNAME")
+2021-11-22T07:33:19.630Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T07:33:28.290Z [Money Remittance] [32minfo[39m:info login control is working
+2021-11-22T07:33:29.156Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:33:29.276Z [Money Remittance] [32minfo[39m:the authentication is working
+2021-11-22T07:33:39.219Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:33:39.852Z [Money Remittance] [32minfo[39m:All users controller is working
+2021-11-22T07:33:40.444Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:34:03.518Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:34:04.291Z [Money Remittance] [32minfo[39m:calling create user
+2021-11-22T07:34:05.269Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:34:05.473Z [Money Remittance] [32minfo[39m:create user
+2021-11-22T07:35:36.971Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T07:35:42.029Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:35:42.418Z [Money Remittance] [32minfo[39m:calling create user
+2021-11-22T07:35:43.056Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:35:43.599Z [Money Remittance] [32minfo[39m:create user
+2021-11-22T07:35:44.071Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:35:45.365Z [Money Remittance] [31merror[39m:ORA-00001: unique constraint (HR.PK_USERS) violated
+2021-11-22T07:37:23.446Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T07:37:31.544Z [Money Remittance] [32minfo[39m:info login control is working
+2021-11-22T07:37:33.607Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:37:34.114Z [Money Remittance] [32minfo[39m:the authentication is working
+2021-11-22T07:37:46.092Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:37:46.846Z [Money Remittance] [32minfo[39m:calling create user
+2021-11-22T07:37:48.040Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:37:48.167Z [Money Remittance] [32minfo[39m:create user
+2021-11-22T07:37:48.608Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:37:48.931Z [Money Remittance] [32minfo[39m:A New User Is Being Inserted!
+2021-11-22T07:37:49.102Z [Money Remittance] [32minfo[39m:User Created
+2021-11-22T07:38:23.930Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:38:24.639Z [Money Remittance] [32minfo[39m:All users controller is working
+2021-11-22T07:38:25.303Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:40:48.707Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:40:49.455Z [Money Remittance] [32minfo[39m:Calling to user Update
+2021-11-22T07:40:49.936Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:40:50.764Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:40:51.063Z [Money Remittance] [31merror[39m:ORA-00904: "LASTNAME": invalid identifier
+2021-11-22T07:48:38.245Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T07:49:07.075Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:49:07.310Z [Money Remittance] [32minfo[39m:Calling to user Update
+2021-11-22T07:49:07.912Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:50:47.695Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T07:50:57.499Z [Money Remittance] [32minfo[39m:info login control is working
+2021-11-22T07:50:59.577Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:50:59.770Z [Money Remittance] [32minfo[39m:the authentication is working
+2021-11-22T07:51:09.304Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:51:09.580Z [Money Remittance] [32minfo[39m:Calling to user Update
+2021-11-22T07:51:10.110Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:51:40.225Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T07:51:46.039Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:51:46.553Z [Money Remittance] [32minfo[39m:Calling to user Update
+2021-11-22T07:51:47.237Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T07:51:47.753Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:06:14.928Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T08:06:26.635Z [Money Remittance] [32minfo[39m:info login control is working
+2021-11-22T08:06:30.654Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:06:30.818Z [Money Remittance] [32minfo[39m:the authentication is working
+2021-11-22T08:06:40.260Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:06:40.718Z [Money Remittance] [32minfo[39m:All users controller is working
+2021-11-22T08:06:41.506Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:06:56.312Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:06:56.660Z [Money Remittance] [32minfo[39m:getUserById controller is working
+2021-11-22T08:06:57.199Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:06:57.471Z [Money Remittance] [32minfo[39m:The user exists
+2021-11-22T08:06:57.730Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:07:58.752Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:07:59.391Z [Money Remittance] [32minfo[39m:Calling to user Update
+2021-11-22T08:08:00.288Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:08:00.966Z [Money Remittance] [31merror[39m:User already exist
+2021-11-22T08:09:04.173Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:09:04.836Z [Money Remittance] [32minfo[39m:Calling to user Update
+2021-11-22T08:09:05.364Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:09:06.144Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:09:06.874Z [Money Remittance] [32minfo[39m:User Is Updated Successfully!
+2021-11-22T08:09:07.162Z [Money Remittance] [32minfo[39m:User is Updated
+2021-11-22T08:09:18.429Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:09:18.979Z [Money Remittance] [32minfo[39m:All users controller is working
+2021-11-22T08:09:20.044Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:10:12.729Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:10:13.071Z [Money Remittance] [32minfo[39m:Calling Delete user
+2021-11-22T08:10:14.069Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:10:14.409Z [Money Remittance] [31merror[39m:ORA-01722: invalid number
+2021-11-22T08:10:45.779Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:10:46.426Z [Money Remittance] [32minfo[39m:Calling Delete user
+2021-11-22T08:10:47.387Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:10:47.804Z [Money Remittance] [31merror[39m:User already exist
+2021-11-22T08:13:57.445Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T08:14:09.980Z [Money Remittance] [32minfo[39m:info login control is working
+2021-11-22T08:14:11.166Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:14:11.548Z [Money Remittance] [32minfo[39m:the authentication is working
+2021-11-22T08:14:30.477Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:14:30.893Z [Money Remittance] [32minfo[39m:Calling Delete user
+2021-11-22T08:14:31.197Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:14:31.504Z [Money Remittance] [31merror[39m:User already exist
+2021-11-22T08:15:19.245Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:15:19.528Z [Money Remittance] [32minfo[39m:Calling Delete user
+2021-11-22T08:15:20.261Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:15:20.711Z [Money Remittance] [32minfo[39m:delete user
+2021-11-22T08:15:21.169Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:15:22.385Z [Money Remittance] [32minfo[39m:User is deleted
+2021-11-22T08:15:32.425Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:15:32.953Z [Money Remittance] [32minfo[39m:All users controller is working
+2021-11-22T08:15:33.317Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:20:42.975Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T08:20:54.349Z [Money Remittance] [32minfo[39m:getStates controll is working
+2021-11-22T08:20:55.574Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:24:29.307Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T08:25:05.900Z [Money Remittance] [32minfo[39m:getRemittanceByUser controller is working
+2021-11-22T08:25:07.555Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:25:08.074Z [Money Remittance] [32minfo[39m:The user exists
+2021-11-22T08:27:16.703Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T08:27:20.951Z [Money Remittance] [32minfo[39m:getRemittanceByUser controller is working
+2021-11-22T08:27:21.929Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:27:22.078Z [Money Remittance] [32minfo[39m:The user exists
+2021-11-22T08:27:22.403Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:39:00.031Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T08:39:42.879Z [Money Remittance] [32minfo[39m:info createRemittance, you have seccessfully registered a new remittance
+2021-11-22T08:39:43.753Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:39:43.916Z [Money Remittance] [31merror[39m:ORA-00904: "EMAIL": invalid identifier
+2021-11-22T08:44:11.783Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T08:44:25.101Z [Money Remittance] [32minfo[39m:info createRemittance, you have seccessfully registered a new remittance
+2021-11-22T08:44:25.278Z [Money Remittance] [32minfo[39m:create user
+2021-11-22T08:44:27.577Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:46:22.521Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T08:53:48.628Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T08:55:02.440Z [Money Remittance] [32minfo[39m:updateRemittanceStatus to user Update
+2021-11-22T08:55:03.939Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:55:04.513Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:55:43.097Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T08:57:48.051Z [Money Remittance] [32minfo[39m:updateRemittanceStatus to user Update
+2021-11-22T08:57:49.503Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:57:50.127Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:59:37.840Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T08:59:43.638Z [Money Remittance] [32minfo[39m:updateRemittanceStatus to user Update
+2021-11-22T08:59:44.298Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T08:59:44.851Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T09:06:08.023Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T09:06:25.780Z [Money Remittance] [32minfo[39m:updateRemittanceStatus to user Update
+2021-11-22T09:06:27.023Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T09:06:27.430Z [Money Remittance] [32minfo[39m:Connected database
+2021-11-22T11:00:28.286Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-22T19:02:08.392Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:5000
+2021-11-25T19:48:25.029Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:3000
+2021-11-25T19:51:37.058Z [Money Remittance] [32minfo[39m:The app is running on port http://localhost:3000
